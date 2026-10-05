@@ -299,6 +299,7 @@ object SettingsTranslationScreen : SearchableSettings {
             "Spanish" to stringResource(MR.strings.pref_translation_lang_spanish),
             "French" to stringResource(MR.strings.pref_translation_lang_french),
             "German" to stringResource(MR.strings.pref_translation_lang_german),
+             "Italian" to "Italiano",
             "Portuguese" to stringResource(MR.strings.pref_translation_lang_portuguese),
             "Russian" to stringResource(MR.strings.pref_translation_lang_russian),
         )
